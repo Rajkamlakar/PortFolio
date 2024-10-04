@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rajkamlakar
+- 👀 I’m interested in to learn new things
+- 🌱 I’m currently learning engineering
+- 📫 How to reach me rajkamlakar0910@gmail.com
+- 😄 Pronouns: Ra
