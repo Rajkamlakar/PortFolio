@@ -12,10 +12,12 @@ I am a passionate Computer Science Engineering (TYCSE) student with a deep inter
 - Other Tools: Git-GitHub, Postman, VS Code ,Postgresql ,
 
  🚀 Projects  
-Here are some of my exciting projects:  
-1. College Portal System: A complete student portal with features like profiles, attendance tracking, and course management.  
-2. Background Changer: An interactive app for changing webpage backgrounds dynamically using HTML, CSS, and JavaScript.  
-3. React Calculator: A responsive and efficient calculator built with React.js.  
+Here are some of my exciting projects: 
+1.Job Seeker MERN Stack Website
+This project is a full-stack job-seeking website built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows job seekers to create profiles, upload resumes, and apply for jobs, while employers can post job listings and manage applications.
+2. College Portal System: A complete student portal with features like profiles, attendance tracking, and course management.  
+3. Background Changer: An interactive app for changing webpage backgrounds dynamically using HTML, CSS, and JavaScript.  
+4. React Calculator: A responsive and efficient calculator built with React.js.  
 
 Explore my repositories to learn more about my work!
 
